@@ -1,0 +1,4 @@
+1) Create an class that return a single instance of Logger Object.
+2) Implement FactoryPattern for to get the  object instances for sub classes as follows(SavingAccount, FixedAccount, CurrentAccount),
+3) Account is an interface. Create a class AccountFactory which gives the Account objects.
+4) Implement DAO pattern for files exercise from Java-8
